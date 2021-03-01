@@ -7,6 +7,9 @@
     <groupId>com</groupId>
     <artifactId>learn</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>learn-cas</module>
+    </modules>
 
     <packaging>pom</packaging>
 
