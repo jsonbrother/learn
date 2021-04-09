@@ -10,6 +10,7 @@
     <modules>
         <module>learn-excel</module>
         <module>learn-cas</module>
+        <module>learn-executor</module>
     </modules>
 
     <packaging>pom</packaging>
