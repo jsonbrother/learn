@@ -9,7 +9,7 @@
   </parent>
   <modelVersion>4.0.0</modelVersion>
   
-  <artifactId>learm-executor</artifactId>
+  <artifactId>learn-executor</artifactId>
   
   <dependencies>
     <!-- 引入SpringBoot依赖 -->
